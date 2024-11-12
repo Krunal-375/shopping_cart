@@ -71,7 +71,7 @@ body {
   border-radius: 10%;
   padding: 10px 60px;
   text-align: center;
-  width: calc(25%); /* Ensures three products fit per row with the gap */
+  width: calc(20%); /* Ensures three products fit per row with the gap */
   transition: transform 0.2s ease-in-out;
   cursor: pointer;
   overflow: hidden;
